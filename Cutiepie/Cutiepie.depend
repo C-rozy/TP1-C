@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1790243354 source:c:\dev\cutiepie\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1789564948 source:c:\dev\cutiepie\exercice1.c
+	<stdio.h>
+	<stdlib.h>
+
